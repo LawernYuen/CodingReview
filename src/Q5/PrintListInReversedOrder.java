@@ -2,6 +2,8 @@ import java.util.Stack;
 // 主方法可以调用静态的私有类，不能调用非静态方法
 
 public class PrintListInReversedOrder{
+    // 使用内部类的最大好处是可以和外部类进行私有操作的互相访问。
+    // 内部类可以直接访问外部类的成员，包括私有；外部类要访问内部类的成员，必须先创建对象。
     private class ListNode{
         int key;
         ListNode next;
