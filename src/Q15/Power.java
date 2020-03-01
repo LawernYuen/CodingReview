@@ -21,7 +21,7 @@ public class Power{
             return base;
         double result = powerCore(base, exponent>>1);
         result *= result;
-        if ((exponent & 0x1) == 1)
+        if ((exponent & 1) == 1)
             result *= base;
         return result;
     }

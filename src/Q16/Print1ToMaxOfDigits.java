@@ -50,18 +50,24 @@ public class Print1ToMaxOfDigits{
         for (int k = 0; k < number.length; k++)
             number[k] = '0';
         for (int i = 0; i <= 9; i++)
-            number[0] = (char) (i + '0');
-            makeNumber(number, 0);
+            makeNumber(number, i, 0);
     }
 
-    private void makeNumber(char[] number, int index){
+    private void makeNumber(char[] number, int nNumber, int index){
         if (index == number.length-1){
+//            System.out.println(index);
+            number[index] = (char) (nNumber + '0');
             printCharNumber(number);
             return;
         }
-        for (int i = 0; i <= 9; i++){
-            number[index+1] = (char) (i + '0');
-            makeNumber(number, index+1);
-        }
+        number[index] = (char) (nNumber + '0');
+//        System.out.println("number[" + index + "]=" + nNumber);
+        for (int i = 0; i <= 9; i++)
+            makeNumber(number, i, index + 1);
+    }
+
+    public static void main(String[] args){
+        Print1ToMaxOfDigits demo = new Print1ToMaxOfDigits();
+        demo.print1ToMaxOfDigits2(3);
     }
 }
