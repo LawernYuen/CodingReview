@@ -24,6 +24,7 @@ public class CopyComplexList{
             ComplexListNode cloneNode = new ComplexListNode(pNode,
                     pNode.next, null);
             pNode.next = cloneNode;
+            pNode = cloneNode.next;
         }
     }
     // set siblings
