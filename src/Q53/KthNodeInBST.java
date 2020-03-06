@@ -14,7 +14,7 @@ public class KthNodeInBST{
     public TreeNode getKthNode(TreeNode pRoot, int k){
         if (pRoot == null || k <= 0)
             return null;
-        TreeNode pNode =
+        TreeNode pNode = KthNode(pRoot, k);
         return pNode;
     }
 
