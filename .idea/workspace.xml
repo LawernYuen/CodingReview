@@ -2,10 +2,105 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c856e79-8ee3-4808-b67d-4b2a7eb8be56" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q16/Print1ToMaxOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q17/DeleteDuplicatedNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q17/DeleteNodeInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1/singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q1/singleton1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1/singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q1/singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1/singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q1/singleton3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1/singleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q1/singleton4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1/singleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q1/singleton5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q1/singleton6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q1/singleton6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q10/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q10/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q10/MinNumberInRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q10/MinNumberInRotatedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q10/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q10/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q11/StringPathInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q11/StringPathInMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q12/RobotMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q12/RobotMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q13/CuttingRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q13/CuttingRope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q14/NumberOf1InBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q14/NumberOf1InBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q15/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q15/Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q16/Print1ToMaxOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q16/Print1ToMaxOfDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q16/Print1ToMaxOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q16/Print1ToMaxOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q17/DeleteDuplicatedNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q17/DeleteDuplicatedNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q17/DeleteNodeInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q17/DeleteNodeInList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q18/RegularExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q18/RegularExpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q19/NumericStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q19/NumericStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2/DuplicationInArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q2/DuplicationInArray1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2/DuplicationInArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q2/DuplicationInArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q20/ReorderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q20/ReorderArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q21/KthNodeFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q21/KthNodeFromEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q22/EntryNodeInListLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q22/EntryNodeInListLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q23/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q23/ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q24/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q24/Merge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q25/SubstructureInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q25/SubstructureInTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q26/MirrorOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q26/MirrorOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q27/CheckSymmetry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q27/CheckSymmetry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q28/PrintMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q28/PrintMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q28/PrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q28/PrintMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q29/StackWithMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q29/StackWithMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q3/FindIn2dArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q3/FindIn2dArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q30/PushAndPop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q30/PushAndPop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q31/PrintTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q31/PrintTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q32/SeqOfPostorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q32/SeqOfPostorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q33/PathInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q33/PathInTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q34/CopyComplexList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q34/CopyComplexList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q35/ConvertTreeToList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q35/ConvertTreeToList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q36/SerializeAndDeserialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q36/SerializeAndDeserialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q37/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q37/Permutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q37/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q37/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q38/NumberMoreThanHalf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q38/NumberMoreThanHalf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q39/KLeastNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q39/KLeastNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4/SpaceInStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q4/SpaceInStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4/SpaceInStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q4/SpaceInStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q40/StreamMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q40/StreamMedian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q41/SumOfSubarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q41/SumOfSubarrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q42/NumberOf1.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q42/NumberOf1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q42/NumberOf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q42/NumberOf1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q43/DigitsInSeq.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q43/DigitsInSeq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q43/DigitsInSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q43/DigitsInSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q44/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q44/SortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q45/NumToStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q45/NumToStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q46/ValueOfGifts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q46/ValueOfGifts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q47/LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q47/LongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q47/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q47/LongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q48/FindUglyNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q48/FindUglyNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q49/FindNoRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q49/FindNoRepeatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q49/NoRepeatingInStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q49/NoRepeatingInStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q5/PrintListInReversedOrder$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q5/PrintListInReversedOrder$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q5/PrintListInReversedOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q5/PrintListInReversedOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q5/PrintListInReversedOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q5/PrintListInReversedOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q50/InversePairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q50/InversePairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q50/InversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q50/InversePairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q51/CommonNodeOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q51/CommonNodeOfList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q52/GetIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q52/GetIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q52/MissingNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q52/MissingNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q52/NumOfK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q52/NumOfK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q53/KthNodeInBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q53/KthNodeInBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q54/IsBalancedBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q54/IsBalancedBT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q54/TreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q54/TreeDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q55/NumOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q55/NumOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q55/NumOnceInThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q55/NumOnceInThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q56/SumAsS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q56/SumAsS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q56/SumInSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q56/SumInSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q57/ReverseWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q57/ReverseWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q57/RotateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q57/RotateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q58/MaxOfSlidingWin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q58/MaxOfSlidingWin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q58/QueueWithMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q58/QueueWithMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q59/DicesProb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q59/DicesProb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q6/ConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q6/ConstructBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q60/ContinuousPokers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q60/ContinuousPokers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q61/JosephCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q61/JosephCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q62/MaxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q62/MaxProfit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q62/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q62/MaxProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q63/Accumulate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q63/Accumulate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q64/AddNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q64/AddNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q65/ProductArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q65/ProductArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q66/StringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q66/StringToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q67/LowestCommonParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q67/LowestCommonParent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q7/NextNodeInBinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q7/NextNodeInBinaryTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q8/QueueWithTwoStacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q8/QueueWithTwoStacks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q8/QueueWithTwoStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q8/QueueWithTwoStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q9/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q9/Fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +127,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lawee\CodingReview\src\CodingInterviews" />
       <recent name="C:\Users\lawee\CodingReview\src\Q17" />
     </key>
   </component>
@@ -55,6 +152,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -77,7 +179,17 @@
       <workItem from="1582813064668" duration="4856000" />
       <workItem from="1582878019082" duration="9807000" />
       <workItem from="1582940481218" duration="9761000" />
-      <workItem from="1582965159971" duration="7382000" />
+      <workItem from="1582965159971" duration="16650000" />
+      <workItem from="1583028018248" duration="32110000" />
+      <workItem from="1583138713726" duration="19254000" />
+      <workItem from="1583200690674" duration="25182000" />
+      <workItem from="1583287809268" duration="14381000" />
+      <workItem from="1583335531244" duration="1840000" />
+      <workItem from="1583371930484" duration="24114000" />
+      <workItem from="1583459236418" duration="26316000" />
+      <workItem from="1583561108422" duration="3049000" />
+      <workItem from="1583678259476" duration="1046000" />
+      <workItem from="1583719499301" duration="15465000" />
     </task>
     <servers />
   </component>
@@ -85,19 +197,48 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1582965162675">
+    <state x="906" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583308462940">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582965162675" />
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582975206762">
+    <state x="906" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1583308462940" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583479068360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582975206762" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583479068360" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583479068359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583479068359" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583479068359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583479068359" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583479068359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583479068359" />
+    <state x="264" y="64" key="SettingsEditor" timestamp="1583030720900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="264" y="64" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583030720900" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1583719508826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583719508826" />
+    <state x="809" y="190" key="run.anything.popup" timestamp="1583152231556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="809" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583152231556" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583051359530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583051359530" />
   </component>
   <component name="masterDetails">
     <states>
