@@ -8,7 +8,7 @@ public class NumericStrings{
             index++;
             isNumeric = isUnsignedInteger(str, index) || isNumeric;
         }
-        if (index < str.length && (str[index[0]] == 'e' || str[index[0]] == 'E')){
+        if (index < str.length && (str[index] == 'e' || str[index] == 'E')){
             index++;
             isNumeric = isInteger(str, index) && isNumeric;
         }
@@ -25,7 +25,7 @@ public class NumericStrings{
     }
     private boolean isUnsignedInteger(char[] str, int index){
         int start = index;
-        while (index < str.length && (str[index[0]] - '0' <= 9 && str[index[0]] - '0' >= 0))
+        while (index < str.length && (str[index] - '0' <= 9 && str[index] - '0' >= 0))
             index++;
         if (index > start)
             return true;

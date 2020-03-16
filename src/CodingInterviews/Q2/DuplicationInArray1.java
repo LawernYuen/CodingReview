@@ -13,7 +13,7 @@ public class DuplicationInArray1{
         for (int i = 0; i < length; i++){
             while (array[i] != i){
                 if (array[i] == array[array[i]]){
-                    duplicatedNumber == array[i];
+                    duplicatedNumber = array[i];
                     return true;
                 }
                 // swap

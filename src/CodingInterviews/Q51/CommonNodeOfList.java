@@ -20,22 +20,19 @@ public class CommonNodeOfList{
             length2++;
             node2 = node2.next;
         }
-        node1 = pHead1, node2 = pHead2;
+        node1 = pHead1;
+        node2 = pHead2;
         if (length1 > length2) {
-            while ( int i = length1 - length2;
-            i > 0;
-            i--)
-            node1 = node1.next;
+            for (int i =length1-length2; i > 0; i--)
+                node1 = node1.next;
             while (node1 != null && node1 != node2) {
                 node1 = node1.next;
                 node2 = node2.next;
             }
             return node1;
         } else {
-            while ( int i = length2 - length1;
-            i > 0;
-            i--)
-            node2 = node2.next;
+            for (int i =length2-length1; i > 0; i--)
+                node2 = node2.next;
             while (node2 != null && node1 != node2) {
                 node1 = node1.next;
                 node2 = node2.next;

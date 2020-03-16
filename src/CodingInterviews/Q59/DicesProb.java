@@ -33,7 +33,7 @@ public class DicesProb{
             prob[sum-number]++;
             return;
         }
-        for (int i = 1; i <= maxValue)
+        for (int i = 1; i <= maxValue; i++)
             calProb(prob, number, number-1, sum+i);
     }
 

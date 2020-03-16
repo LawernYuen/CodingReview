@@ -1,6 +1,6 @@
 public class StringToInt{
     public static boolean isValid = false;
-    public int StrToInt(STring str){
+    public int StrToInt(String str){
         if (str == null || str.length() <= 0)
             return 0;
         char[] array = str.toCharArray();

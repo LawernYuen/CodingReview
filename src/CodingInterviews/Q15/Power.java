@@ -14,6 +14,7 @@ public class Power{
         }
         else
             return 1;
+        return result;
     }
 
     private double powerCore(double base, int exponent){

@@ -24,7 +24,7 @@ public class DeleteDuplicatedNode{
             else {
                 int dupValue = curNode.val;
                 ListNode tobeDel = curNode;
-                while (tobeDel != null && tobeDel.next == dupValue)
+                while (tobeDel != null && tobeDel.val == dupValue)
                     tobeDel = tobeDel.next;
                 preNode.next = tobeDel;
                 curNode = tobeDel;
