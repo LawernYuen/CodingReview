@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c856e79-8ee3-4808-b67d-4b2a7eb8be56" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingDaily/DupIn3Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingDaily/LongestPalindromic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingDaily/LongestPanlindromicSeq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingDaily/NoOfPalindromic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingDaily/PathInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingDaily/SortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingDaily/mergesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingDaily/quicksort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingInterview/CardNo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingInterview/CardNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/SurroundedRegion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/sumNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingReview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingReview.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/Q10/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q10/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/Q10/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q10/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/Q11/StringPathInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q11/StringPathInMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/Q15/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q15/Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/Q17/DeleteDuplicatedNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q17/DeleteDuplicatedNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/Q19/NumericStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q19/NumericStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/Q2/DuplicationInArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q2/DuplicationInArray1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/Q51/CommonNodeOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q51/CommonNodeOfList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/Q59/DicesProb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q59/DicesProb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingInterviews/Q66/StringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingInterviews/Q66/StringToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EnterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EnterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingDaily/EnterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +68,7 @@
       <recent name="C:\Users\lawee\CodingReview\src\Q17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PathInMatrix">
+  <component name="RunManager" selected="Application.sumNumbers">
     <configuration name="DupIn3Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CodingDaily.DupIn3Array" />
       <module name="CodingReview" />
@@ -106,17 +82,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="PathInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingDaily.PathInMatrix" />
       <module name="CodingReview" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingDaily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingDaily.PathInMatrix" />
+    <configuration name="SurroundedRegion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingDaily.SurroundedRegion" />
       <module name="CodingReview" />
       <extension name="coverage">
         <pattern>
@@ -141,27 +121,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingDaily.quicksort" />
+    <configuration name="sumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingDaily.sumNumbers" />
       <module name="CodingReview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingDaily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.quicksort" />
       <item itemvalue="Application.mergesort" />
       <item itemvalue="Application.DupIn3Array" />
       <item itemvalue="Application.PathInMatrix" />
+      <item itemvalue="Application.SurroundedRegion" />
+      <item itemvalue="Application.sumNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sumNumbers" />
+        <item itemvalue="Application.SurroundedRegion" />
         <item itemvalue="Application.PathInMatrix" />
         <item itemvalue="Application.DupIn3Array" />
         <item itemvalue="Application.mergesort" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.quicksort" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +192,9 @@
       <workItem from="1584183529464" duration="606000" />
       <workItem from="1584184184790" duration="9571000" />
       <workItem from="1584260942427" duration="10445000" />
-      <workItem from="1584328662538" duration="6283000" />
+      <workItem from="1584328662538" duration="8066000" />
+      <workItem from="1584500882916" duration="109000" />
+      <workItem from="1584501101891" duration="15981000" />
     </task>
     <servers />
   </component>
@@ -240,38 +228,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="564" y="105" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584182338075" />
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1584347582709">
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom" timestamp="1584533482124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584347582709" />
-    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1584347582709">
+    <state width="1493" height="140" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584533482124" />
+    <state width="1493" height="140" key="GridCell.Tab.0.center" timestamp="1584533482124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584347582709" />
-    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1584347582709">
+    <state width="1493" height="140" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584533482124" />
+    <state width="1493" height="140" key="GridCell.Tab.0.left" timestamp="1584533482124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584347582709" />
-    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1584347582709">
+    <state width="1493" height="140" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584533482124" />
+    <state width="1493" height="140" key="GridCell.Tab.0.right" timestamp="1584533482124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584347582709" />
-    <state width="1493" height="251" key="GridCell.Tab.1.bottom" timestamp="1584347582709">
+    <state width="1493" height="140" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584533482124" />
+    <state width="1493" height="251" key="GridCell.Tab.1.bottom" timestamp="1584527178577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584347582709" />
-    <state width="1493" height="251" key="GridCell.Tab.1.center" timestamp="1584347582709">
+    <state width="1493" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584527178577" />
+    <state width="1493" height="251" key="GridCell.Tab.1.center" timestamp="1584527178577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584347582709" />
-    <state width="1493" height="251" key="GridCell.Tab.1.left" timestamp="1584347582709">
+    <state width="1493" height="251" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584527178577" />
+    <state width="1493" height="251" key="GridCell.Tab.1.left" timestamp="1584527178577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584347582709" />
-    <state width="1493" height="251" key="GridCell.Tab.1.right" timestamp="1584347582709">
+    <state width="1493" height="251" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584527178577" />
+    <state width="1493" height="251" key="GridCell.Tab.1.right" timestamp="1584527178577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584347582709" />
+    <state width="1493" height="251" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584527178577" />
     <state x="423" y="116" key="NewModule_or_Project.wizard" timestamp="1584112189555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -280,10 +268,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="210" y="43" width="1038" height="781" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584181399691" />
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584328803988">
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584501186729">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584328803988" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584501186729" />
     <state x="485" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584261047145">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -300,9 +288,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="809" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583152231556" />
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583051359530">
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584522887310">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583051359530" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584522887310" />
   </component>
 </project>
