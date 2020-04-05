@@ -1,4 +1,4 @@
-package CodingDaily;
+package CodingDaily.Practices;
 
 public class quicksort {
     public void sort(int[] array, int lo, int hi){

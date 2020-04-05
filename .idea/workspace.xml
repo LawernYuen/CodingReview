@@ -2,9 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c856e79-8ee3-4808-b67d-4b2a7eb8be56" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CodingDaily/SurroundedRegion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingDaily/sumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/Practices/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/Practices/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/Practices/MyThread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/Practices/MyThread4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/Tests/LcmGcd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/Tests/grabSocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/Tests/pickWood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/Tests/remArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/Tests/riseInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingDaily/WordLadderII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingReview/CodingDaily/mergesort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingReview/CodingDaily/quicksort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingReview/EnterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingReview/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingReview/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingDaily/EnterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingDaily/Practices/EnterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingDaily/mergesort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingDaily/Practices/mergesort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingDaily/quicksort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingDaily/Practices/quicksort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +74,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -68,13 +84,20 @@
       <recent name="C:\Users\lawee\CodingReview\src\Q17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.sumNumbers">
-    <configuration name="DupIn3Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingDaily.DupIn3Array" />
+  <component name="RunManager" selected="Application.MyThread4">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CodingReview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingDaily.Practices.MyThread1" />
       <module name="CodingReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingDaily.*" />
+          <option name="PATTERN" value="CodingDaily.Practices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingDaily.PathInMatrix" />
+    <configuration name="MyThread2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingDaily.Practices.MyThread2" />
       <module name="CodingReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingDaily.*" />
+          <option name="PATTERN" value="CodingDaily.Practices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SurroundedRegion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingDaily.SurroundedRegion" />
+    <configuration name="MyThread3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingDaily.Practices.MyThread3" />
       <module name="CodingReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingDaily.*" />
+          <option name="PATTERN" value="CodingDaily.Practices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,25 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mergesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingDaily.mergesort" />
+    <configuration name="MyThread4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingDaily.Practices.MyThread4" />
       <module name="CodingReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingDaily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingDaily.sumNumbers" />
-      <module name="CodingReview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodingDaily.*" />
+          <option name="PATTERN" value="CodingDaily.Practices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,19 +145,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.mergesort" />
-      <item itemvalue="Application.DupIn3Array" />
-      <item itemvalue="Application.PathInMatrix" />
-      <item itemvalue="Application.SurroundedRegion" />
-      <item itemvalue="Application.sumNumbers" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MyThread1" />
+      <item itemvalue="Application.MyThread2" />
+      <item itemvalue="Application.MyThread3" />
+      <item itemvalue="Application.MyThread4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sumNumbers" />
-        <item itemvalue="Application.SurroundedRegion" />
-        <item itemvalue="Application.PathInMatrix" />
-        <item itemvalue="Application.DupIn3Array" />
-        <item itemvalue="Application.mergesort" />
+        <item itemvalue="Application.MyThread4" />
+        <item itemvalue="Application.MyThread3" />
+        <item itemvalue="Application.MyThread2" />
+        <item itemvalue="Application.MyThread1" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +204,16 @@
       <workItem from="1584260942427" duration="10445000" />
       <workItem from="1584328662538" duration="8066000" />
       <workItem from="1584500882916" duration="109000" />
-      <workItem from="1584501101891" duration="15981000" />
+      <workItem from="1584501101891" duration="16719000" />
+      <workItem from="1584588156676" duration="6919000" />
+      <workItem from="1584757094139" duration="5294000" />
+      <workItem from="1584863300945" duration="2633000" />
+      <workItem from="1584925472987" duration="1510000" />
+      <workItem from="1584928980163" duration="10995000" />
+      <workItem from="1585305018737" duration="5947000" />
+      <workItem from="1585479039407" duration="11046000" />
+      <workItem from="1585561218846" duration="696000" />
+      <workItem from="1586072791285" duration="6500000" />
     </task>
     <servers />
   </component>
@@ -228,50 +247,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="564" y="105" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584182338075" />
-    <state width="1493" height="140" key="GridCell.Tab.0.bottom" timestamp="1584533482124">
+    <state width="944" height="137" key="GridCell.Tab.0.bottom" timestamp="1586102066296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="140" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584533482124" />
-    <state width="1493" height="140" key="GridCell.Tab.0.center" timestamp="1584533482124">
+    <state width="944" height="137" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586102066296" />
+    <state width="944" height="137" key="GridCell.Tab.0.center" timestamp="1586102066296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="140" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584533482124" />
-    <state width="1493" height="140" key="GridCell.Tab.0.left" timestamp="1584533482124">
+    <state width="944" height="137" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586102066296" />
+    <state width="944" height="137" key="GridCell.Tab.0.left" timestamp="1586102066296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="140" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584533482124" />
-    <state width="1493" height="140" key="GridCell.Tab.0.right" timestamp="1584533482124">
+    <state width="944" height="137" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586102066296" />
+    <state width="944" height="137" key="GridCell.Tab.0.right" timestamp="1586102066296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="140" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584533482124" />
-    <state width="1493" height="251" key="GridCell.Tab.1.bottom" timestamp="1584527178577">
+    <state width="944" height="137" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586102066296" />
+    <state width="1493" height="153" key="GridCell.Tab.1.bottom" timestamp="1585493081585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584527178577" />
-    <state width="1493" height="251" key="GridCell.Tab.1.center" timestamp="1584527178577">
+    <state width="1493" height="153" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585493081585" />
+    <state width="1493" height="153" key="GridCell.Tab.1.center" timestamp="1585493081585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584527178577" />
-    <state width="1493" height="251" key="GridCell.Tab.1.left" timestamp="1584527178577">
+    <state width="1493" height="153" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585493081585" />
+    <state width="1493" height="153" key="GridCell.Tab.1.left" timestamp="1585493081585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584527178577" />
-    <state width="1493" height="251" key="GridCell.Tab.1.right" timestamp="1584527178577">
+    <state width="1493" height="153" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585493081585" />
+    <state width="1493" height="153" key="GridCell.Tab.1.right" timestamp="1585493081585">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="251" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584527178577" />
+    <state width="1493" height="153" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585493081585" />
     <state x="423" y="116" key="NewModule_or_Project.wizard" timestamp="1584112189555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="423" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1584112189555" />
-    <state x="210" y="43" width="1038" height="781" key="SettingsEditor" timestamp="1584181399691">
+    <state x="210" y="43" width="1038" height="781" key="SettingsEditor" timestamp="1584805015038">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="210" y="43" width="1038" height="781" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584181399691" />
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584501186729">
+    <state x="210" y="43" width="1038" height="781" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584805015038" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586072792378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584501186729" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586072792378" />
     <state x="485" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584261047145">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -288,9 +307,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="809" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583152231556" />
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584522887310">
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586073101412">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584522887310" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586073101412" />
   </component>
 </project>

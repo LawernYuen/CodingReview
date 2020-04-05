@@ -1,4 +1,4 @@
-package CodingDaily;
+package CodingDaily.Practices;
 
 public class mergesort {
     private static int[] aux;
