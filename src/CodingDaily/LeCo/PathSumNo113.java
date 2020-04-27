@@ -1,25 +1,29 @@
 package CodingDaily.LeCo;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class PathSumNo113 {
-    ArrayList<Integer> list = new ArrayList<>();
-    ArrayList<ArrayList<Integer>> List = new ArrayList<>();
-    public ArrayList<ArrayList<Integer>> pathSum(TreeNode root, int sum) {
+    List<List<Integer>> List = new ArrayList<>();
+    public List<List<Integer>> pathSum(TreeNode root, int sum) {
+        List<Integer> list = new ArrayList<>();
+        pathSum(root, sum, list);
+        return List;
+    }
+    private void pathSum(TreeNode root, int sum, List<Integer> list){
         if (root == null)
-            return List;
+            return;
         list.add(root.val);
         sum -= root.val;
-        if (root.left == null && root.right == null && sum == 0){
-            List.add(list);
-            return List;
+        if (root.left == null && root.right == null && sum == 0) {
+            List<Integer> templist = new ArrayList<>(list);
+            List.add(templist);
         }
         else {
-            pathSum(root.left, sum);
-            pathSum(root.right, sum);
+            pathSum(root.left, sum, list);
+            pathSum(root.right, sum, list);
         }
         list.remove(list.size()-1);
-        return List;
     }
 
     public static void main(String[] args) {

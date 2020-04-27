@@ -16,3 +16,7 @@ class ImplRunnable implements Runnable{
         System.out.println(Thread.currentThread().getName() + "--" + ++i);
     }
 }
+//2.实现Runnable接口，重写run方法
+//        不论创建多少个线程，只需要创建一个实现Runnable接口类的对象
+//        启动线程，new Thread（Runnable接口实现类的对象）.start()
+//        创建线程调用的是Thread类Runable类型参数的构造器
